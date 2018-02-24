@@ -42,3 +42,5 @@ while quit==0:
     else:
         correct=0
         c=0
+        
+#第21行有问题，输入其他字母报错
